@@ -1,5 +1,5 @@
-#define DEQUE
-#include "deque.h"
+#define CQUEUE
+#include "cqueue.h"
 #include <stdio.h>
 //mantuve los nombres de lista para no hacer tantos cambios
 void print_int(int value) {
